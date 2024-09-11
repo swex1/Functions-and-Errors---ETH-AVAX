@@ -20,7 +20,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the contract is deployed, you can interact with it by calling all the functions.
 
-Authors 
+Authors:  
 sweta singh 
 
 
